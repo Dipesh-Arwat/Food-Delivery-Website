@@ -158,12 +158,12 @@
 
 :root {
     --input-color: black; /* Define custom color for input elements */
-    --background-root: black;
+    --background-root: white;
     --border-root: 2px solid white;
     --padding-root: 10px;
     --upload: brightness(1) invert(1); /* Added a custom variable */
     --logos-filter: brightness(0) invert(1); /* Added a custom variable */
-    --sidebar: black;
+    --sidebar: white;
     --border-color: #27272a;
     --nav-color-one: #0d0d179a;
     --nav-color-two: #0d0618;
@@ -188,9 +188,7 @@
     --cards-text-color: #fff; /* White text color for cards container */
 }
 
-:root .logo {
-    filter: var(--logos-filter); 
-}
+
 
 .lightcolors .logo {
     filter: none; 

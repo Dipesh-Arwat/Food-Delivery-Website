@@ -50,9 +50,7 @@
     background-color: #323232;
 }
 
-:root .tomatologofooter {
-    filter: var(--logos-filter); 
-}
+
 
 .lightcolors .tomatologofooter {
     filter: none; 

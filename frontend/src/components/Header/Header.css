@@ -1,8 +1,10 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
-    background-size: contain;
+    background: url('header1_img.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
     position: relative;
 }
 
@@ -58,6 +60,9 @@
 }
 
 @media (max-width:750px) {
+    .header{
+        height: 40vw;
+    }
     .header-contents{
         max-width: 65%;
     }
