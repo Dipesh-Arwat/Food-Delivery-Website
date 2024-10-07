@@ -75,6 +75,10 @@ npm run dev
    
 <h2>How to install/setup the Backend</h2>
 
+
+Future Enhancements
+Payment integration (e.g., Stripe).
+Real-time order tracking.
 > Open a terminal in VS Code and go into the backend folder and then run
 
 ```
