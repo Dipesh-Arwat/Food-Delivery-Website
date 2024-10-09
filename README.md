@@ -85,3 +85,7 @@ Real-time order tracking.
 npm start server
 ```
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env
+
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
